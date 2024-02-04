@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there<br>I am Freya Abbi<br>I have a keen interest Frontend Development<br>I am currently learning about Artificial Neural Networks , Vector Machines and Data Analysis<br>I am looking to collaborate on AI based projects 
+Hi there<br>I am Freya Abbi<br>I have a keen interest in Frontend Development<br>I am currently learning about Artificial Neural Networks , Vector Machines and Data Analysis<br>I am looking to collaborate on AI based projects 
 
 
 ## 🌐 Socials:
