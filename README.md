@@ -1,6 +1,15 @@
+[![](https://visitcount.itsvg.in/api?id=freyaabbi&icon=0&color=11)](https://visitcount.itsvg.in)
 # 💫 About Me:
-Hi there<br>I am Freya Abbi<br>I have a keen interest in Frontend Development<br>I am currently learning about Artificial Neural Networks , Vector Machines and Data Analysis<br>I am looking to collaborate on AI based projects 
 
+- 👋 Hi, I’m Freya Abbi
+
+- 👀 I’m interested in ... Web Designing and Frontend Developmen
+
+- 🌱 I’m currently learning ...Artificial Neural Networks , Vector Machines and Data Analysis
+
+- 💞️ I’m looking to collaborate on ... On my project on prediction data
+
+- 💬I am looking for help with ......someone who has knowledge in AI training modules
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freya-abbi-2a5774284/) 
