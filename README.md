@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in ... Frontend Development
 
-- 🌱 I’m currently learning ...Artificial Neural Networks , Vector Machines and Data Analysis
+- 🌱 I’m currently learning ...Artificial Neural Networks , Support Vector Machines and Data Analysis
 
 - 💞️ I’m looking to collaborate on ... On my project on prediction data
 
