@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Freya Abbi
 
-- 👀 I’m interested in ... Web Designing and Frontend Developmen
+- 👀 I’m interested in ... Frontend Development
 
 - 🌱 I’m currently learning ...Artificial Neural Networks , Vector Machines and Data Analysis
 
