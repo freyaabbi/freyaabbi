@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Freya Abbi
 
-- 👀 I’m interested in ... Machine Leaning and Quantum Computing
+- 👀 I’m interested in ... Machine Learning and Quantum Computing
 
 - 🌱 I’m currently learning ...Artificial Neural Networks , Support Vector Machines and Data Analysis
 
