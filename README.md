@@ -3,13 +3,11 @@
 
 - 👋 Hi, I’m Freya Abbi
 
-- 👀 I’m interested in ... Frontend Development
+- 👀 I’m interested in ... Machine Leaning and Quantum Computing
 
 - 🌱 I’m currently learning ...Artificial Neural Networks , Support Vector Machines and Data Analysis
 
 - 💞️ I’m looking to collaborate on ... On my project on prediction data
-
-- 💬I am looking for help with ......someone who has knowledge in AI training modules
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freya-abbi-2a5774284/) 
